@@ -1,5 +1,5 @@
-![SQLServer Tinitiate Image](sqlserver_tinitiate.png)
-# SQLServer Tutorial
+![Oracle Tinitiate Image](sqlserver_tinitiate.png)
+# Oracle Tutorial
 &copy; TINITIATE.COM
 
 ## CONTEXT
